@@ -1,0 +1,5 @@
+console.log('keys', Object.keys({'a': 1, 'b': 2}))
+console.log('values', Object.values({'nome': 'hediberto'}))
+console.log('now', Date.now())
+console.log('random', Math.random())
+// console.log('global', global)
